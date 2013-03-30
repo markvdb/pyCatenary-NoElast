@@ -1,0 +1,57 @@
+
+Horizontal Distance between supports in meters: 	20.0
+Catenary length in meters: 	40.0
+Vertical Distance Between supports in meters: 	15.0
+Unit Weight of Catenary line in kg/m: 	8.0
+Elevation of higher support (A) from reference plane in meters: 	12.0
+\Catenary coef.: 	[ 4.5928043]
+Horizontal tension in kg (constant along line: 	[ 36.74243441]
+Vertical tension in A in kg: 	[ 239.00300365]
+Total tension in A in kg: 	[ 241.81075708]
+Total tension in B in kg: 	[ 112.36438348]
+Inclination angle from vertical at A in radians: 	0.152537912811
+Inclination angle from vertical at B in radians: 	0.333120532
+Inclination angle from vertical at A in degrees: 	8.73977861983
+Inclination angle from vertical at B in degrees: 	19.0864005527
+Horizontal Distance between supports in meters: 	30.0
+Catenary length in meters: 	55.0
+Vertical Distance Between supports in meters: 	22.0
+Unit Weight of Catenary line in kg/m: 	200.0
+Elevation of higher support (A) from reference plane in meters: 	17.0
+\Catenary coef.: 	7.42483
+Horizontal tension in kg (constant along line: 	1484.965
+Vertical tension in A in kg: 	8487.34
+Total tension in A in kg: 	8616.268
+Total tension in B in kg: 	3815.474
+Inclination angle from vertical at A in radians: 	0.173
+Inclination angle from vertical at B in radians: 	0.4
+Inclination angle from vertical at A in degrees: 	9.924
+Inclination angle from vertical at B in degrees: 	22.904
+Horizontal Distance between supports in meters: 	34.4
+Catenary length in meters: 	60.0
+Vertical Distance Between supports in meters: 	22.2
+Unit Weight of Catenary line in kg/m: 	80.0
+Elevation of higher support (A) from reference plane in meters: 	22.0
+\Catenary coef.: 	8.92736
+Horizontal tension in kg (constant along line: 	714.189
+Vertical tension in A in kg: 	3580.592
+Total tension in A in kg: 	3651.124
+Total tension in B in kg: 	1739.456
+Inclination angle from vertical at A in radians: 	0.197
+Inclination angle from vertical at B in radians: 	0.423
+Inclination angle from vertical at A in degrees: 	11.28
+Inclination angle from vertical at B in degrees: 	24.241
+Horizontal Distance between supports in meters: 	34.3
+Catenary length in meters: 	60.0
+Vertical Distance Between supports in meters: 	22.2
+Unit Weight of Catenary line in kg/m: 	80.0
+Elevation of higher support (A) from reference plane in meters: 	15.0
+\Catenary coef.: 	8.87586
+Horizontal tension in kg (constant along line: 	710.068
+Vertical tension in A in kg: 	3580.125
+Total tension in A in kg: 	3649.862
+Total tension in B in kg: 	1738.194
+Inclination angle from vertical at A in radians: 	0.196
+Inclination angle from vertical at B in radians: 	0.421
+Inclination angle from vertical at A in degrees: 	11.218
+Inclination angle from vertical at B in degrees: 	24.111
